@@ -49,11 +49,11 @@
       "show faces rate dialog": "false",
 	  
       "clicks to stop showing banner ad": "2",
-      "time unit banner": "min",
+      "time unit banner": "minute",
       "time banner": "1",
 	  
       "clicks to stop showing native ad": "2",
-      "time unit native": "min",
+      "time unit native": "minute",
       "time native": "1",
 	  
       "show CPA 1": "false",
